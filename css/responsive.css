@@ -1,0 +1,62 @@
+						@media (min-width: 992px) and (max-width: 1200px){
+.middle input{
+	margin-left: 400px;
+}
+}
+
+						@media (min-width: 700px) and (max-width: 992px){
+.middle {
+	padding-top: 100px;
+}
+
+.middle input{
+	margin-left: 105%;
+}
+
+}
+						@media (min-width: 500px) and (max-width: 700px){
+.middle {
+		padding-top: 100px;
+	}
+.middle input{
+		margin-left: 60%;
+	}
+}
+
+						@media  (max-width:600px){
+.middle {
+		padding-top: 100px;
+}
+
+.middle input{
+		margin-left: 40%;
+		width: 200px;
+		font-size: 25px;
+}
+
+.middle h2{
+	font-size: 25px;
+}
+
+footer h3{
+	padding-top: 100px;
+}
+
+footer .container-fluid img{
+	margin-left: 100px;
+}
+.middle .container-fluid{
+	width: 350px;
+}
+.middle img{
+	width: 50px;
+}
+
+footer div span{
+	padding-left: 10px;
+}
+.middle	img:hover{
+	width: 52px;
+}
+
+}
